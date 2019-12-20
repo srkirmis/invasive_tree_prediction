@@ -1,6 +1,6 @@
-<center><h1><font color=darkred> Predicting Invasive Tree Species </font></h1>
-  <center><h5><font color=grey> December 11, 2019 </font></h5></center>
-  <center><h5>><font color=grey> Single Contributor: skirmis </font></h5></center>
+<h1><font color=darkred> Predicting Invasive Tree Species </h1>
+  <h5> December 11, 2019 </font></h5></center>
+  <h5> Single Contributor: skirmis </h5></center>
   
 <br>
 
